@@ -5,4 +5,4 @@ Basic template for a layered crosspoint in SIMPL Windows.
 
 SIMPL program is configured for an MC3. Modify for your processor.
 
-Modify XPanel root settings in Connection Settings --> Host to your processor IP.
+Modify XPanel TestInterface root settings in Connection Settings --> Host to your processor IP.
